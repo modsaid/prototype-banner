@@ -5,5 +5,5 @@ the design is created by @fawziaessa < fawzia.essa@espace.com.eg >
 
 simply add the following line at the end of the file (after closing the body tag)
 
- <script src="https://raw.github.com/modsaid/prototype-banner/master/banner.js" type="text/javascript"></script>
+ <script src='https://raw.github.com/modsaid/prototype-banner/master/banner.js' type='text/javascript'></script>
  
