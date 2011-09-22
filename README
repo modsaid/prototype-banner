@@ -1,0 +1,9 @@
+This is a simple javascript that creates a top right corner banner indicating the the website is just a prototype.
+the design is created by @fawziaessa < fawzia.essa@espace.com.eg >
+
+= Usage:
+
+simply add the following line at the end of the file (after closing the body tag)
+
+ <script src="https://raw.github.com/modsaid/prototype-banner/master/banner.js" type="text/javascript"></script>
+ 
